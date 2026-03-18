@@ -53,7 +53,7 @@ It allows users to seamlessly draw their signatures on any device and export the
 4. Select your preferred file format (`PNG` or `JPG`).
 5. Click **Export** to securely download the image locally.
 
-*(More screenshots should be inserted here as `./public/screenshot-x.png` when taking UI shots)*
+![Live App Screenshot](./public/screenshot.png)
 
 ---
 
